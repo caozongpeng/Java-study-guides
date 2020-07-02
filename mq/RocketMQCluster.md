@@ -66,17 +66,17 @@ mapedFileSizeConsumeQueue=300000
 #检测物理文件磁盘空间
 diskMaxUsedSpaceRatio=88
 #存储路径
-storePathRootDir=D:\kf\RocketMQ4.7\store\broker-a
+storePathRootDir=D:\\kf\\RocketMQ4.7\\store\\broker-a
 #commitLog 存储路径
-storePathCommitLog=D:\kf\RocketMQ4.7\store\broker-a\commitlog
+storePathCommitLog=D:\\kf\\RocketMQ4.7\\store\\broker-a\\commitlog
 #消费队列存储路径存储路径
-storePathConsumeQueue=D:\kf\RocketMQ4.7\store\broker-a\consumequeue
+storePathConsumeQueue=D:\\kf\\RocketMQ4.7\\store\\broker-a\\consumequeue
 #消息索引存储路径
-storePathIndex=D:\kf\RocketMQ4.7\store\broker-a\index
+storePathIndex=D:\\kf\\RocketMQ4.7\\store\\broker-a\\index
 #checkpoint 文件存储路径
-storeCheckpoint=D:\kf\RocketMQ4.7\store\broker-a\checkpoint
+storeCheckpoint=D:\\kf\\RocketMQ4.7\\store\\broker-a\\checkpoint
 #abort 文件存储路径
-abortFile=D:\kf\RocketMQ4.7\store\broker-a\abort
+abortFile=D:\\kf\\RocketMQ4.7\\store\\broker-a\\abort
 #限制的消息大小
 maxMessageSize=65536
 #flushCommitLogLeastPages=4
@@ -129,17 +129,17 @@ mapedFileSizeConsumeQueue=300000
 #检测物理文件磁盘空间
 diskMaxUsedSpaceRatio=88
 #存储路径
-storePathRootDir=D:\kf\RocketMQ4.7\store\broker-a-s
+storePathRootDir=D:\\kf\\RocketMQ4.7\\store\\broker-a-s
 #commitLog 存储路径
-storePathCommitLog=D:\kf\RocketMQ4.7\store\broker-a-s\commitlog
+storePathCommitLog=D:\\kf\\RocketMQ4.7\\store\\broker-a-s\\commitlog
 #消费队列存储路径存储路径
-storePathConsumeQueue=D:\kf\RocketMQ4.7\store\broker-a-s\consumequeue
+storePathConsumeQueue=D:\\kf\\RocketMQ4.7\\store\\broker-a-s\\consumequeue
 #消息索引存储路径
-storePathIndex=D:\kf\RocketMQ4.7\store\broker-a-s\index
+storePathIndex=D:\\kf\\RocketMQ4.7\\store\\broker-a-s\\index
 #checkpoint 文件存储路径
-storeCheckpoint=D:\kf\RocketMQ4.7\store\broker-a-s\checkpoint
+storeCheckpoint=D:\\kf\\RocketMQ4.7\\store\\broker-a-s\\checkpoint
 #abort 文件存储路径
-abortFile=D:\kf\RocketMQ4.7\store\broker-a-s\abort
+abortFile=D:\\kf\\RocketMQ4.7\\store\\broker-a-s\\abort
 #限制的消息大小
 maxMessageSize=65536
 #flushCommitLogLeastPages=4
@@ -193,17 +193,17 @@ mapedFileSizeConsumeQueue=300000
 #检测物理文件磁盘空间
 diskMaxUsedSpaceRatio=88
 #存储路径
-storePathRootDir=D:\kf\RocketMQ4.7\store\broker-b
+storePathRootDir=D:\\kf\\RocketMQ4.7\\store\\broker-b
 #commitLog 存储路径
-storePathCommitLog=D:\kf\RocketMQ4.7\store\broker-b\commitlog
+storePathCommitLog=D:\\kf\\RocketMQ4.7\\store\\broker-b\\commitlog
 #消费队列存储路径存储路径
-storePathConsumeQueue=D:\kf\RocketMQ4.7\store\broker-b\consumequeue
+storePathConsumeQueue=D:\\kf\\RocketMQ4.7\\store\\broker-b\\consumequeue
 #消息索引存储路径
-storePathIndex=D:\kf\RocketMQ4.7\store\broker-b\index
+storePathIndex=D:\\kf\\RocketMQ4.7\\store\\broker-b\\index
 #checkpoint 文件存储路径
-storeCheckpoint=D:\kf\RocketMQ4.7\store\broker-b\checkpoint
+storeCheckpoint=D:\\kf\\RocketMQ4.7\\store\\broker-b\\checkpoint
 #abort 文件存储路径
-abortFile=D:\kf\RocketMQ4.7\store\broker-b\abort
+abortFile=D:\\kf\\RocketMQ4.7\\store\\broker-b\\abort
 #限制的消息大小
 maxMessageSize=65536
 #flushCommitLogLeastPages=4
@@ -257,17 +257,17 @@ mapedFileSizeConsumeQueue=300000
 #检测物理文件磁盘空间
 diskMaxUsedSpaceRatio=88
 #存储路径
-storePathRootDir=D:\kf\RocketMQ4.7\store\broker-b-s
+storePathRootDir=D:\\kf\\RocketMQ4.7\\store\\broker-b-s
 #commitLog 存储路径
-storePathCommitLog=D:\kf\RocketMQ4.7\store\broker-b-s\commitlog
+storePathCommitLog=D:\\kf\\RocketMQ4.7\\store\\broker-b-s\\commitlog
 #消费队列存储路径存储路径
-storePathConsumeQueue=D:\kf\RocketMQ4.7\store\broker-b-s\consumequeue
+storePathConsumeQueue=D:\\kf\\RocketMQ4.7\\store\\broker-b-s\\consumequeue
 #消息索引存储路径
-storePathIndex=D:\kf\RocketMQ4.7\store\broker-b-s\index
+storePathIndex=D:\\kf\\RocketMQ4.7\\store\\broker-b-s\\index
 #checkpoint 文件存储路径
-storeCheckpoint=D:\kf\RocketMQ4.7\store\broker-b-s\checkpoint
+storeCheckpoint=D:\\kf\\RocketMQ4.7\\store\\broker-b-s\\checkpoint
 #abort 文件存储路径
-abortFile=D:\kf\RocketMQ4.7\store\broker-b-s\abort
+abortFile=D:\\kf\\RocketMQ4.7\\store\\broker-b-s\\abort
 #限制的消息大小
 maxMessageSize=65536
 #flushCommitLogLeastPages=4
